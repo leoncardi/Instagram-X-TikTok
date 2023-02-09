@@ -1,0 +1,30 @@
+1675672568556	geckodriver	INFO	Listening on 127.0.0.1:59347
+1675672571424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\notebook\\AppData\\Local\\Temp\\rust_mozprofileRvAwCT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1675672579165	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675672579241	Marionette	INFO	Listening on port 59357
+Read port: 59357
+1675672581493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\notebook\\AppData\\Local\\Temp\\rust_mozprofileRvAwCT\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1675672823044	Marionette	INFO	Stopped listening on port 59357
+Dynamically enable window occlusion 1
+1675673587374	geckodriver	INFO	Listening on 127.0.0.1:59688
+1675673589979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\notebook\\AppData\\Local\\Temp\\rust_mozprofileYu2ZL9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1675673594347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675673594363	Marionette	INFO	Listening on port 59701
+Read port: 59701
+1675673594660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\notebook\\AppData\\Local\\Temp\\rust_mozprofileYu2ZL9\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1675673725195	Marionette	INFO	Stopped listening on port 59701
+Dynamically enable window occlusion 1
